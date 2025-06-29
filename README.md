@@ -17,6 +17,7 @@
 - 🌐 Building responsive websites with HTML, CSS & JavaScript
 - 💡 I love creating clean, user-friendly UIs
 - 📍 Based in Bhubaneswar, India
+- - 📬 How to reach me: ksrikanta897@gmail.com
 
 ---
 
@@ -47,7 +48,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="ksrikanta897@gmaail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="ksrikanta897@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/srikanta -kumar-sahoo-611480263"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
 </p>
