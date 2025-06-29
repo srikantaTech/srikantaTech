@@ -17,7 +17,7 @@
 - 🌐 Building responsive websites with HTML, CSS & JavaScript
 - 💡 I love creating clean, user-friendly UIs
 - 📍 Based in Bhubaneswar, India
-- - 📬 How to reach me: ksrikanta897@gmail.com
+-  📬 How to reach me: ksrikanta897@gmail.com
 
 ---
 
