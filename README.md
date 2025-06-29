@@ -37,9 +37,9 @@
 
 | 🌐 Project | 🔎 Description | 💻 Tech Used |
 |-----------|----------------|--------------|
-| ✅ *To-Do List App* | Manage daily tasks with add/delete features | HTML, CSS, JavaScript |
-| 🌙 *Day-Night Mode Toggle* | Switch theme with emoji sun & moon | HTML, CSS, JS |
-| ⏱ *Event Countdown Timer* | Live countdown to your custom event | JavaScript |
+|  *To-Do List App* | Manage daily tasks with add/delete features | HTML, CSS, JavaScript |
+|  *Spotify Clone* | A responsive music listening web | HTML, CSS, JavaScript |
+|  *Personal Portfolio Website* | Show my Details with a downloadable resume feature | HTML, CSS, JavaScript |
 
 🔗 [View More Projects](https://github.com/srikanta-04?tab=repositories)
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="ksrikanta897@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/srikanta -kumar-sahoo-611480263"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/srikanta-kumar-sahoo-61148a263"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
 </p>
 
